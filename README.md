@@ -1,4 +1,4 @@
-# arp-spoofer
+# arpspoof-detector
 
 **DEPENDENCIES:**
 ```
